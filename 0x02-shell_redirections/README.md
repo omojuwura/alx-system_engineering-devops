@@ -1,1 +1,1 @@
-a script that creates an alias
+a shell script that creates a file
