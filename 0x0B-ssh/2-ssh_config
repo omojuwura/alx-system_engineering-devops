@@ -6,3 +6,5 @@ Host *
     GSSAPIDelegateCredentials no
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
+
+Host 34.202.157.83
